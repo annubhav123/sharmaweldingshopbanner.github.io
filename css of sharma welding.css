@@ -1,0 +1,51 @@
+#wrapper {
+	width:600px;
+	background-color:#941818;
+	height:900px;
+	margin:0 auto;
+}
+#om {
+	height:20px;
+	width:600px;
+	margin-left:275px;
+	margin-right:280px;
+    opacity:0.5;
+	font-size:20px;
+    color:pink;
+}
+#br {
+	height:20px;
+	width:600px;
+	opacity:0.5;
+	font-size:25px;
+    margin-top:20px;
+    color:pink;
+}
+#sharma {
+	color:pink;
+	font-size:40px;
+    margin-left:150px;
+}
+#work {
+	color:pink;
+	font-size:40px;
+    margin-left:180px;
+}
+#note {
+	background-color:purple;
+	font-size:50px;
+	height:115px;
+	width:600px;
+}
+#div {
+	margin-top:40px;
+}
+#img {
+	width:600px;
+	height:250px;
+}
+#contact {
+	height:250px;
+	width:600px;
+	background-color:#173ae8;
+}
